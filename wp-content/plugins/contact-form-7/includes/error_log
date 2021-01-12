@@ -1,0 +1,1 @@
+[26-Oct-2016 12:52:20 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/planit4usv/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3

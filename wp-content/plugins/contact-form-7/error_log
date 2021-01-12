@@ -1,0 +1,4 @@
+[25-Nov-2017 18:06:07 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/planit4usv/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[01-Aug-2018 07:02:57 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/planit4usv/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[27-Dec-2019 12:02:12 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/planit4usv/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[02-Jan-2021 10:16:34 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/planit4usv/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19

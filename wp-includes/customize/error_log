@@ -1,0 +1,5 @@
+[31-Jul-2020 06:08:25 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/planit4usv/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[31-Jul-2020 09:36:56 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/planit4usv/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[31-Jul-2020 10:34:19 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/planit4usv/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[31-Jul-2020 10:34:22 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/planit4usv/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[31-Jul-2020 13:23:05 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/planit4usv/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17

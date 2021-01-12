@@ -1,0 +1,365 @@
+08.08.2016 20:43:52 Media &quot;Depositphotos_48484057_original&quot; already exists.
+08.08.2016 20:44:03 Remote server returned error response 404 Not Found
+08.08.2016 20:44:03 Failed to import Media: &quot;က&quot;. Message: Remote server returned error response 404 Not Found
+08.08.2016 20:54:20 Media &quot;Desserts and Champagne for meeting participants&quot; already exists.
+08.08.2016 21:16:23 AJAX handler for importer
+08.08.2016 21:16:23 Dispatch action: import_tpl
+08.08.2016 21:16:23 Import Templates Options
+08.08.2016 21:16:23 AJAX handler finished - send results to client
+08.08.2016 21:16:25 AJAX handler for importer
+08.08.2016 21:16:25 Dispatch action: import_widgets
+08.08.2016 21:16:25 Import Widgets
+08.08.2016 21:16:25 AJAX handler finished - send results to client
+08.08.2016 21:16:27 AJAX handler for importer
+08.08.2016 21:16:27 Dispatch action: import_end
+08.08.2016 21:16:27 AJAX handler finished - send results to client
+08.08.2016 21:17:20 AJAX handler for importer
+08.08.2016 21:17:20 Dispatch action: import_start
+08.08.2016 21:17:20 Clear Revolution Slider tables
+08.08.2016 21:17:20 AJAX handler finished - send results to client
+08.08.2016 21:17:22 AJAX handler for importer
+08.08.2016 21:17:22 Dispatch action: import_essgrids
+08.08.2016 21:17:22 Import Essential Grid
+08.08.2016 21:17:22 Process file &quot;ess_grid.json&quot;:
+08.08.2016 21:17:22 Essential Grid import complete
+08.08.2016 21:17:22 AJAX handler finished - send results to client
+08.08.2016 21:17:24 AJAX handler for importer
+08.08.2016 21:17:24 Dispatch action: import_revslider
+08.08.2016 21:17:24 Import Revolution sliders
+08.08.2016 21:17:24 Process slider &quot;homepage2.zip&quot;
+08.08.2016 21:17:51 Slider &quot;homepage2.zip&quot; imported
+08.08.2016 21:17:51 AJAX handler finished - send results to client
+08.08.2016 21:17:52 AJAX handler for importer
+08.08.2016 21:17:52 Dispatch action: import_revslider
+08.08.2016 21:17:52 Import Revolution sliders
+08.08.2016 21:17:52 Process slider &quot;homepage1.zip&quot;
+08.08.2016 21:18:20 Slider &quot;homepage1.zip&quot; imported
+08.08.2016 21:18:20 AJAX handler finished - send results to client
+08.08.2016 21:18:22 AJAX handler for importer
+08.08.2016 21:18:22 Dispatch action: import_revslider
+08.08.2016 21:18:22 Import Revolution sliders
+08.08.2016 21:18:22 Process slider &quot;homepage4.zip&quot;
+08.08.2016 21:18:50 Slider &quot;homepage4.zip&quot; imported
+08.08.2016 21:18:50 AJAX handler finished - send results to client
+08.08.2016 21:18:52 AJAX handler for importer
+08.08.2016 21:18:52 Dispatch action: import_end
+08.08.2016 21:18:52 AJAX handler finished - send results to client
+08.08.2016 21:20:31 AJAX handler for importer
+08.08.2016 21:20:31 Dispatch action: import_start
+08.08.2016 21:20:31 Clear posts tables
+08.08.2016 21:20:31 AJAX handler finished - send results to client
+08.08.2016 21:20:33 AJAX handler for importer
+08.08.2016 21:20:33 Dispatch action: import_posts
+08.08.2016 21:20:33 Start import posts
+08.08.2016 21:20:33 Create custom taxonomies
+08.08.2016 21:20:33 Start import posts
+08.08.2016 21:20:33 Parse file /home/planit4usv/public_html/wp-content/themes/unicaevents/demo/dummy_data_vc.xml
+08.08.2016 21:20:33 Use SimpleXML parser
+08.08.2016 21:20:33 Get authors from import
+08.08.2016 21:20:33 Process authors
+08.08.2016 21:20:33 Process categories
+08.08.2016 21:20:33 Category &quot;uncategorized&quot; imported.<br>
+08.08.2016 21:20:33 Category &quot;masonry-2-columns&quot; imported.<br>
+08.08.2016 21:20:33 Category &quot;home-gallery&quot; imported.<br>
+08.08.2016 21:20:33 Category &quot;masonry-3-columns&quot; imported.<br>
+08.08.2016 21:20:33 Category &quot;post-formats&quot; imported.<br>
+08.08.2016 21:20:33 Category &quot;portfolio-2-columns&quot; imported.<br>
+08.08.2016 21:20:33 Category &quot;portfolio-3-columns&quot; imported.<br>
+08.08.2016 21:20:33 Category &quot;gallery&quot; imported.<br>
+08.08.2016 21:20:33 Category &quot;home3-gallery&quot; imported.<br>
+08.08.2016 21:20:33 Category &quot;home-4-gallery&quot; imported.<br>
+08.08.2016 21:20:33 Process tags
+08.08.2016 21:20:33 Tag &quot;post format&quot; imported.
+08.08.2016 21:20:33 Tag &quot;business&quot; imported.
+08.08.2016 21:20:33 Tag &quot;birthday&quot; imported.
+08.08.2016 21:20:33 Tag &quot;celebration&quot; imported.
+08.08.2016 21:20:33 Tag &quot;ceremony&quot; imported.
+08.08.2016 21:20:33 Tag &quot;decoration&quot; imported.
+08.08.2016 21:20:33 Tag &quot;party&quot; imported.
+08.08.2016 21:20:33 Tag &quot;kids&quot; imported.
+08.08.2016 21:20:33 Tag &quot;wedding&quot; imported.
+08.08.2016 21:20:33 Tag &quot;social&quot; imported.
+08.08.2016 21:20:33 Tag &quot;corporate&quot; imported.
+08.08.2016 21:20:33 Tag &quot;birthdays&quot; imported.
+08.08.2016 21:20:33 Tag &quot;parties&quot; imported.
+08.08.2016 21:20:33 Tag &quot;baby showers&quot; imported.
+08.08.2016 21:20:33 Tag &quot;engagements&quot; imported.
+08.08.2016 21:20:33 Process terms
+08.08.2016 21:20:33 Taxonomy &quot;team_group&quot;: term &quot;Team&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;nav_menu&quot;: term &quot;Main menu&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;nav_menu&quot;: term &quot;Site links&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;testimonial_group&quot;: term &quot;testimonials&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;testimonial_group&quot;: term &quot;testimonials2&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;services_group&quot;: term &quot;Services&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;clients_group&quot;: term &quot;clients&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;testimonial_group&quot;: term &quot;testimonials_clients&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;clients_group&quot;: term &quot;clients2&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;product_type&quot;: term &quot;simple&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;product_type&quot;: term &quot;grouped&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;product_type&quot;: term &quot;variable&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;product_type&quot;: term &quot;external&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;product_cat&quot;: term &quot;Balloons&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;product_cat&quot;: term &quot;Party Hats&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;product_cat&quot;: term &quot;Centerpieces&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;product_cat&quot;: term &quot;Other&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;product_tag&quot;: term &quot;birthday&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;product_tag&quot;: term &quot;party&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;product_tag&quot;: term &quot;balloons&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;product_tag&quot;: term &quot;celebration&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;product_tag&quot;: term &quot;cake&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;product_tag&quot;: term &quot;kids&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;product_tag&quot;: term &quot;holiday&quot; imported.
+08.08.2016 21:20:33 Taxonomy &quot;product_tag&quot;: term &quot;anniversary&quot; imported.
+08.08.2016 21:20:33 Process posts 
+08.08.2016 21:20:33 Page &quot;Typography&quot; (ID=4) imported.
+08.08.2016 21:20:33 Post (ID=4) imported. Current import progress: 0%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:20:33 Process attachment
+08.08.2016 21:20:33 Fetch remote file &quot;http://unicaevents.ancorathemes.com/wp-content/imports/2015/10/Depositphotos_48484057_original.jpg&quot;
+08.08.2016 21:20:33 Attachment already uploaded
+08.08.2016 21:20:52 Media &quot;Depositphotos_48484057_original&quot; (ID=34) imported.
+08.08.2016 21:20:52 Post (ID=34) imported. Current import progress: 1%. Time limit: 1190 sec. Elapsed time: 19 sec.
+08.08.2016 21:20:52 Page &quot;Shortcodes&quot; (ID=45) imported.
+08.08.2016 21:20:52 Post (ID=45) imported. Current import progress: 1%. Time limit: 1190 sec. Elapsed time: 19 sec.
+08.08.2016 21:20:52 Process attachment
+08.08.2016 21:20:52 Fetch remote file &quot;http://unicaevents.ancorathemes.com/wp-content/imports/2015/10/Depositphotos_48484057_original1.jpg&quot;
+08.08.2016 21:20:52 Attachment already uploaded
+08.08.2016 21:21:13 Media &quot;Depositphotos_48484057_original&quot; (ID=59) imported.
+08.08.2016 21:21:13 Post (ID=59) imported. Current import progress: 1%. Time limit: 1190 sec. Elapsed time: 40 sec.
+08.08.2016 21:21:13 Process attachment
+08.08.2016 21:21:13 Fetch remote file &quot;http://unicaevents.ancorathemes.com/wp-content/imports/2015/10/Vector-Smart-Object-copy-131.png&quot;
+08.08.2016 21:21:13 Attachment already uploaded
+08.08.2016 21:21:13 Media &quot;Vector-Smart-Object-copy-13&quot; (ID=94) imported.
+08.08.2016 21:21:13 Post (ID=94) imported. Current import progress: 2%. Time limit: 1190 sec. Elapsed time: 40 sec.
+08.08.2016 21:21:13 Team member &quot;Jessica Mann&quot; (ID=100) imported.
+08.08.2016 21:21:13 Post (ID=100) imported. Current import progress: 2%. Time limit: 1190 sec. Elapsed time: 40 sec.
+08.08.2016 21:21:13 Process attachment
+08.08.2016 21:21:13 Fetch remote file &quot;http://unicaevents.ancorathemes.com/wp-content/imports/2015/10/Maison-Scotch-sweatshirt-1.jpg&quot;
+08.08.2016 21:21:13 Attachment already uploaded
+08.08.2016 21:21:15 Media &quot;Maison Scotch sweatshirt-1&quot; (ID=101) imported.
+08.08.2016 21:21:15 Post (ID=101) imported. Current import progress: 3%. Time limit: 1190 sec. Elapsed time: 42 sec.
+08.08.2016 21:21:15 Team member &quot;Betty Bass&quot; (ID=102) imported.
+08.08.2016 21:21:15 Post (ID=102) imported. Current import progress: 3%. Time limit: 1190 sec. Elapsed time: 42 sec.
+08.08.2016 21:21:15 Process attachment
+08.08.2016 21:21:15 Fetch remote file &quot;http://unicaevents.ancorathemes.com/wp-content/imports/2015/10/image1xxl-34.jpg&quot;
+08.08.2016 21:21:15 Attachment already uploaded
+08.08.2016 21:21:19 Media &quot;image1xxl (34)&quot; (ID=103) imported.
+08.08.2016 21:21:19 Post (ID=103) imported. Current import progress: 3%. Time limit: 1190 sec. Elapsed time: 46 sec.
+08.08.2016 21:21:19 Process attachment
+08.08.2016 21:21:19 Fetch remote file &quot;http://unicaevents.ancorathemes.com/wp-content/imports/2015/10/က.png&quot;
+08.08.2016 21:21:22 Remote server returned error response 404 Not Found
+08.08.2016 21:21:22 Failed to import Media: &quot;က&quot;. Message: Remote server returned error response 404 Not Found
+08.08.2016 21:21:22 Post (ID=111) imported. Current import progress: 4%. Time limit: 1190 sec. Elapsed time: 49 sec.
+08.08.2016 21:21:22 Finish import posts
+08.08.2016 21:21:22 All done
+08.08.2016 21:21:22 AJAX handler finished - send results to client
+08.08.2016 21:21:24 AJAX handler for importer
+08.08.2016 21:21:24 Dispatch action: import_posts
+08.08.2016 21:21:24 Start import posts
+08.08.2016 21:21:24 Create custom taxonomies
+08.08.2016 21:21:24 Start import posts
+08.08.2016 21:21:24 Parse file /home/planit4usv/public_html/wp-content/themes/unicaevents/demo/dummy_data_vc.xml
+08.08.2016 21:21:24 Use SimpleXML parser
+08.08.2016 21:21:24 Get authors from import
+08.08.2016 21:21:24 Process authors
+08.08.2016 21:21:24 Process posts (continue from ID = 111)
+08.08.2016 21:21:24 Process attachment
+08.08.2016 21:21:24 Fetch remote file &quot;http://unicaevents.ancorathemes.com/wp-content/imports/2015/10/Vector-Smart-Object.png&quot;
+08.08.2016 21:21:24 Attachment already uploaded
+08.08.2016 21:21:24 Media &quot;Vector-Smart-Object&quot; (ID=122) imported.
+08.08.2016 21:21:24 Post (ID=122) imported. Current import progress: 4%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:24 Process menu item
+08.08.2016 21:21:24 Menu item &quot;Features&quot; (ID=124) imported.
+08.08.2016 21:21:24 Post (ID=124) imported. Current import progress: 4%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:24 Process attachment
+08.08.2016 21:21:24 Fetch remote file &quot;http://unicaevents.ancorathemes.com/wp-content/imports/2015/10/logo_white.png&quot;
+08.08.2016 21:21:24 Attachment already uploaded
+08.08.2016 21:21:24 Media &quot;logo_white&quot; (ID=132) imported.
+08.08.2016 21:21:24 Post (ID=132) imported. Current import progress: 5%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:24 Page &quot;Home page 1&quot; (ID=133) imported.
+08.08.2016 21:21:24 Post (ID=133) imported. Current import progress: 5%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:24 Process attachment
+08.08.2016 21:21:24 Fetch remote file &quot;http://unicaevents.ancorathemes.com/wp-content/imports/2015/10/Layer-81.jpg&quot;
+08.08.2016 21:21:24 Attachment already uploaded
+08.08.2016 21:21:30 Media &quot;Layer-81&quot; (ID=135) imported.
+08.08.2016 21:21:30 Post (ID=135) imported. Current import progress: 6%. Time limit: 1190 sec. Elapsed time: 6 sec.
+08.08.2016 21:21:30 Process attachment
+08.08.2016 21:21:30 Fetch remote file &quot;http://unicaevents.ancorathemes.com/wp-content/imports/2015/10/conf.png&quot;
+08.08.2016 21:21:30 Attachment already uploaded
+08.08.2016 21:21:38 Media &quot;conf&quot; (ID=138) imported.
+08.08.2016 21:21:38 Post (ID=138) imported. Current import progress: 6%. Time limit: 1190 sec. Elapsed time: 14 sec.
+08.08.2016 21:21:38 Process attachment
+08.08.2016 21:21:38 Fetch remote file &quot;http://unicaevents.ancorathemes.com/wp-content/imports/2015/10/Vector-Smart-Object-copy-12.png&quot;
+08.08.2016 21:21:38 Attachment already uploaded
+08.08.2016 21:21:38 Media &quot;Vector-Smart-Object-copy-12&quot; (ID=148) imported.
+08.08.2016 21:21:38 Post (ID=148) imported. Current import progress: 6%. Time limit: 1190 sec. Elapsed time: 14 sec.
+08.08.2016 21:21:38 Process attachment
+08.08.2016 21:21:38 Fetch remote file &quot;http://unicaevents.ancorathemes.com/wp-content/imports/2015/10/Rectangle-6-copy.jpg&quot;
+08.08.2016 21:21:38 Attachment already uploaded
+08.08.2016 21:21:40 Media &quot;Rectangle 6 copy&quot; (ID=199) imported.
+08.08.2016 21:21:40 Post (ID=199) imported. Current import progress: 7%. Time limit: 1190 sec. Elapsed time: 16 sec.
+08.08.2016 21:21:40 Post &quot;Planning It All Ahead&quot; (ID=204) imported.
+08.08.2016 21:21:40 Post (ID=204) imported. Current import progress: 7%. Time limit: 1190 sec. Elapsed time: 16 sec.
+08.08.2016 21:21:40 Post &quot;Planning Kids' Birthday Parties&quot; (ID=207) imported.
+08.08.2016 21:21:40 Post (ID=207) imported. Current import progress: 7%. Time limit: 1190 sec. Elapsed time: 16 sec.
+08.08.2016 21:21:40 Finish import posts
+08.08.2016 21:21:40 All done
+08.08.2016 21:21:40 AJAX handler finished - send results to client
+08.08.2016 21:21:43 AJAX handler for importer
+08.08.2016 21:21:43 Dispatch action: import_posts
+08.08.2016 21:21:43 Start import posts
+08.08.2016 21:21:43 Create custom taxonomies
+08.08.2016 21:21:43 Start import posts
+08.08.2016 21:21:43 Parse file /home/planit4usv/public_html/wp-content/themes/unicaevents/demo/dummy_data_vc.xml
+08.08.2016 21:21:43 Use SimpleXML parser
+08.08.2016 21:21:43 Get authors from import
+08.08.2016 21:21:43 Process authors
+08.08.2016 21:21:43 Process posts (continue from ID = 207)
+08.08.2016 21:21:43 Post &quot;Planning Bachelor and Bachelorette Parties&quot; (ID=211) imported.
+08.08.2016 21:21:43 Post (ID=211) imported. Current import progress: 8%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:43 Post &quot;The Most Importand Days in Your Life&quot; (ID=213) imported.
+08.08.2016 21:21:43 Post (ID=213) imported. Current import progress: 8%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:43 Page &quot;All Posts&quot; (ID=227) imported.
+08.08.2016 21:21:43 Post (ID=227) imported. Current import progress: 9%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:44 Post &quot;Aside Post Format&quot; (ID=231) imported.
+08.08.2016 21:21:44 Post (ID=231) imported. Current import progress: 9%. Time limit: 1190 sec. Elapsed time: 1 sec.
+08.08.2016 21:21:44 Post &quot;Chat Post Format&quot; (ID=232) imported.
+08.08.2016 21:21:44 Post (ID=232) imported. Current import progress: 9%. Time limit: 1190 sec. Elapsed time: 1 sec.
+08.08.2016 21:21:44 Post &quot;Status Post Format&quot; (ID=233) imported.
+08.08.2016 21:21:44 Post (ID=233) imported. Current import progress: 10%. Time limit: 1190 sec. Elapsed time: 1 sec.
+08.08.2016 21:21:44 Post &quot;Link Post&quot; (ID=234) imported.
+08.08.2016 21:21:44 Post (ID=234) imported. Current import progress: 10%. Time limit: 1190 sec. Elapsed time: 1 sec.
+08.08.2016 21:21:44 Post &quot;Quote Post&quot; (ID=235) imported.
+08.08.2016 21:21:44 Post (ID=235) imported. Current import progress: 10%. Time limit: 1190 sec. Elapsed time: 1 sec.
+08.08.2016 21:21:44 Post &quot;Gallery Post Format&quot; (ID=236) imported.
+08.08.2016 21:21:44 Post (ID=236) imported. Current import progress: 11%. Time limit: 1190 sec. Elapsed time: 1 sec.
+08.08.2016 21:21:44 Post &quot;Image Post&quot; (ID=237) imported.
+08.08.2016 21:21:44 Post (ID=237) imported. Current import progress: 11%. Time limit: 1190 sec. Elapsed time: 1 sec.
+08.08.2016 21:21:44 Finish import posts
+08.08.2016 21:21:44 All done
+08.08.2016 21:21:44 AJAX handler finished - send results to client
+08.08.2016 21:21:46 AJAX handler for importer
+08.08.2016 21:21:46 Dispatch action: import_posts
+08.08.2016 21:21:46 Start import posts
+08.08.2016 21:21:46 Create custom taxonomies
+08.08.2016 21:21:46 Start import posts
+08.08.2016 21:21:46 Parse file /home/planit4usv/public_html/wp-content/themes/unicaevents/demo/dummy_data_vc.xml
+08.08.2016 21:21:46 Use SimpleXML parser
+08.08.2016 21:21:46 Get authors from import
+08.08.2016 21:21:46 Process authors
+08.08.2016 21:21:46 Process posts (continue from ID = 237)
+08.08.2016 21:21:46 Post &quot;Post Without Image&quot; (ID=238) imported.
+08.08.2016 21:21:46 Post (ID=238) imported. Current import progress: 11%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:46 Post &quot;Audio Post Format&quot; (ID=239) imported.
+08.08.2016 21:21:46 Post (ID=239) imported. Current import progress: 12%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:46 Post &quot;Video Post Format&quot; (ID=240) imported.
+08.08.2016 21:21:46 Post (ID=240) imported. Current import progress: 12%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:46 Post &quot;Managing Conferences and Events&quot; (ID=241) imported.
+08.08.2016 21:21:46 Post (ID=241) imported. Current import progress: 13%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:46 Post &quot;Going Beyond The Venue&quot; (ID=242) imported.
+08.08.2016 21:21:46 Post (ID=242) imported. Current import progress: 13%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:46 Post &quot;Event Mobile Apps&quot; (ID=243) imported.
+08.08.2016 21:21:46 Post (ID=243) imported. Current import progress: 13%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:46 Post &quot;How To Plan An Event&quot; (ID=244) imported.
+08.08.2016 21:21:46 Post (ID=244) imported. Current import progress: 14%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:46 Post &quot;Planning a Graduartion Party&quot; (ID=245) imported.
+08.08.2016 21:21:46 Post (ID=245) imported. Current import progress: 14%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:46 Post &quot;Best Choice for Children's Party&quot; (ID=246) imported.
+08.08.2016 21:21:46 Post (ID=246) imported. Current import progress: 14%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:46 Post &quot;Books to Read Before Starting Your Agency&quot; (ID=247) imported.
+08.08.2016 21:21:47 Post (ID=247) imported. Current import progress: 15%. Time limit: 1190 sec. Elapsed time: 1 sec.
+08.08.2016 21:21:47 Finish import posts
+08.08.2016 21:21:47 All done
+08.08.2016 21:21:47 AJAX handler finished - send results to client
+08.08.2016 21:21:49 AJAX handler for importer
+08.08.2016 21:21:49 Dispatch action: import_posts
+08.08.2016 21:21:49 Start import posts
+08.08.2016 21:21:49 Create custom taxonomies
+08.08.2016 21:21:49 Start import posts
+08.08.2016 21:21:49 Parse file /home/planit4usv/public_html/wp-content/themes/unicaevents/demo/dummy_data_vc.xml
+08.08.2016 21:21:49 Use SimpleXML parser
+08.08.2016 21:21:49 Get authors from import
+08.08.2016 21:21:49 Process authors
+08.08.2016 21:21:49 Process posts (continue from ID = 247)
+08.08.2016 21:21:49 Post &quot;Starting an Event Planning Service&quot; (ID=248) imported.
+08.08.2016 21:21:49 Post (ID=248) imported. Current import progress: 15%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:49 Post &quot;Can You Compete?&quot; (ID=249) imported.
+08.08.2016 21:21:49 Post (ID=249) imported. Current import progress: 16%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:49 Post &quot;Promoting Events Business on Facebook&quot; (ID=250) imported.
+08.08.2016 21:21:49 Post (ID=250) imported. Current import progress: 16%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:49 Post &quot;Must-Have Tools for Better Events&quot; (ID=251) imported.
+08.08.2016 21:21:49 Post (ID=251) imported. Current import progress: 16%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:49 Post &quot;A Surprising Business Idea&quot; (ID=252) imported.
+08.08.2016 21:21:50 Post (ID=252) imported. Current import progress: 17%. Time limit: 1190 sec. Elapsed time: 1 sec.
+08.08.2016 21:21:50 Post &quot;Hiring an Events Planner&quot; (ID=253) imported.
+08.08.2016 21:21:50 Post (ID=253) imported. Current import progress: 17%. Time limit: 1190 sec. Elapsed time: 1 sec.
+08.08.2016 21:21:50 Post &quot;Turning a Profit in the Event Planning Business&quot; (ID=254) imported.
+08.08.2016 21:21:50 Post (ID=254) imported. Current import progress: 17%. Time limit: 1190 sec. Elapsed time: 1 sec.
+08.08.2016 21:21:50 Post &quot;How to Start an Event Planning Service&quot; (ID=255) imported.
+08.08.2016 21:21:50 Post (ID=255) imported. Current import progress: 18%. Time limit: 1190 sec. Elapsed time: 1 sec.
+08.08.2016 21:21:50 Process menu item
+08.08.2016 21:21:50 Menu item &quot;Home&quot; (ID=792) imported.
+08.08.2016 21:21:50 Post (ID=792) imported. Current import progress: 18%. Time limit: 1190 sec. Elapsed time: 1 sec.
+08.08.2016 21:21:50 Process menu item
+08.08.2016 21:21:50 Menu item &quot;Home 1&quot; (ID=794) imported.
+08.08.2016 21:21:50 Post (ID=794) imported. Current import progress: 19%. Time limit: 1190 sec. Elapsed time: 1 sec.
+08.08.2016 21:21:50 Finish import posts
+08.08.2016 21:21:50 All done
+08.08.2016 21:21:50 AJAX handler finished - send results to client
+08.08.2016 21:21:52 AJAX handler for importer
+08.08.2016 21:21:52 Dispatch action: import_posts
+08.08.2016 21:21:52 Start import posts
+08.08.2016 21:21:52 Create custom taxonomies
+08.08.2016 21:21:52 Start import posts
+08.08.2016 21:21:52 Parse file /home/planit4usv/public_html/wp-content/themes/unicaevents/demo/dummy_data_vc.xml
+08.08.2016 21:21:52 Use SimpleXML parser
+08.08.2016 21:21:52 Get authors from import
+08.08.2016 21:21:52 Process authors
+08.08.2016 21:21:52 Process posts (continue from ID = 794)
+08.08.2016 21:21:52 Process menu item
+08.08.2016 21:21:52 Menu item &quot;&quot; (ID=795) imported.
+08.08.2016 21:21:52 Post (ID=795) imported. Current import progress: 19%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:52 Process menu item
+08.08.2016 21:21:52 Menu item &quot;&quot; (ID=796) imported.
+08.08.2016 21:21:52 Post (ID=796) imported. Current import progress: 19%. Time limit: 1190 sec. Elapsed time: 0 sec.
+08.08.2016 21:21:52 Process menu item
+08.08.2016 21:21:53 Menu item &quot;Blog&quot; (ID=799) imported.
+08.08.2016 21:21:53 Post (ID=799) imported. Current import progress: 20%. Time limit: 1190 sec. Elapsed time: 1 sec.
+08.08.2016 21:21:53 Process menu item
+08.08.2016 21:21:53 Menu item &quot;Gallery&quot; (ID=804) imported.
+08.08.2016 21:21:53 Post (ID=804) imported. Current import progress: 20%. Time limit: 1190 sec. Elapsed time: 1 sec.
+08.08.2016 21:21:53 Process attachment
+08.08.2016 21:21:53 Fetch remote file &quot;http://unicaevents.ancorathemes.com/wp-content/imports/2015/08/Depositphotos_7799558_original.jpg&quot;
+08.08.2016 21:21:53 Attachment already uploaded
+08.08.2016 21:22:15 Media &quot;Children at birthday party&quot; (ID=819) imported.
+08.08.2016 21:22:15 Post (ID=819) imported. Current import progress: 20%. Time limit: 1190 sec. Elapsed time: 23 sec.
+08.08.2016 21:22:15 Process attachment
+08.08.2016 21:22:15 Fetch remote file &quot;http://unicaevents.ancorathemes.com/wp-content/imports/2015/08/Depositphotos_10552816_original.jpg&quot;
+08.08.2016 21:22:15 Attachment already uploaded
+08.08.2016 21:22:33 Media &quot;Closeup on table decorated for children's party&quot; (ID=820) imported.
+08.08.2016 21:22:33 Post (ID=820) imported. Current import progress: 21%. Time limit: 1190 sec. Elapsed time: 41 sec.
+08.08.2016 21:22:33 Process attachment
+08.08.2016 21:22:33 Fetch remote file &quot;http://unicaevents.ancorathemes.com/wp-content/imports/2015/08/Depositphotos_10888700_original.jpg&quot;
+08.08.2016 21:22:33 Attachment already uploaded
+08.08.2016 21:43:16 AJAX handler for importer
+08.08.2016 21:43:16 Dispatch action: import_start
+08.08.2016 21:43:16 AJAX handler finished - send results to client
+08.08.2016 21:43:18 AJAX handler for importer
+08.08.2016 21:43:18 Dispatch action: import_posts
+08.08.2016 21:43:18 Start import posts
+08.08.2016 21:43:18 Create custom taxonomies
+08.08.2016 21:43:18 Start import posts
+08.08.2016 21:43:18 Parse file /home/planit4usv/public_html/wp-content/themes/unicaevents/demo/dummy_data_vc.xml
+08.08.2016 21:43:18 Use SimpleXML parser
+08.08.2016 21:43:19 Get authors from import
+08.08.2016 21:43:19 Process authors
+08.08.2016 21:43:19 Process posts (continue from ID = 820)
+08.08.2016 21:43:19 Media &quot;Desserts and Champagne for meeting participants&quot; already exists.
+08.08.2016 21:43:19 Post (ID=821) imported. Current import progress: 21%. Time limit: 1190 sec. Elapsed time: 1 sec.
+08.08.2016 21:43:19 Process attachment
+08.08.2016 21:43:19 Fetch remote file &quot;http://unicaevents.ancorathemes.com/wp-content/imports/2015/08/Depositphotos_11665869_original.jpg&quot;
+08.08.2016 21:43:19 Attachment already uploaded
+08.08.2016 21:43:42 Media &quot;Good cheer&quot; (ID=825) imported.
+08.08.2016 21:43:42 Post (ID=825) imported. Current import progress: 21%. Time limit: 1190 sec. Elapsed time: 24 sec.
+08.08.2016 21:43:42 Process attachment
+08.08.2016 21:43:42 Fetch remote file &quot;http://unicaevents.ancorathemes.com/wp-content/imports/2015/08/Depositphotos_13782907_original.jpg&quot;
+08.08.2016 21:43:42 Attachment already uploaded
